@@ -1,3 +1,5 @@
+[![Claude Code Repos Index](https://img.shields.io/badge/Claude%20Code%20Repos-Index-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Code-Repos-Index)
+
 # Claude Legal Case File
 
 A **Claude Space** template for managing legal cases using Claude Code as an intelligent workspace assistant.
@@ -174,3 +176,7 @@ Contributions welcome! Please submit issues and pull requests for:
 ## Acknowledgments
 
 Based on the [Claude Spaces Model](https://github.com/danielrosehill/Claude-Spaces-Model) by Daniel Rosehill.
+
+---
+
+For more Claude Code projects, visit my [Claude Code Repos Index](https://github.com/danielrosehill/Claude-Code-Repos-Index).
