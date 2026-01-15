@@ -1,0 +1,28 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sensitive files - uncomment if needed
+# *.env
+# credentials.json
+
+# Large exports - uncomment if you want to exclude
+# work-product/exports/
+# work-product/bundles/*.zip
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Log files
+*.log
+
+# Claude Code cache (if any)
+.claude-cache/
