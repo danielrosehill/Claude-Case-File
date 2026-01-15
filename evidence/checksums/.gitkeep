@@ -1,0 +1,11 @@
+# Checksums Directory
+
+This directory stores SHA-256 hashes for all evidence files.
+
+Naming convention: [original-filename].sha256
+
+Generate checksums with:
+sha256sum path/to/file > checksums/filename.sha256
+
+Verify all checksums with:
+sha256sum -c checksums/*.sha256
